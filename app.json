@@ -6,11 +6,11 @@
         "UNLIMITED",
         "Filter",
         "Telegram Bot",
-        "TroJanzHEX"
+        "Non of comedy"
     ],
-    "website": "https://TroJanzHEX.me",
+    "Telegran channel": "https://t.me/Nonofcomedychannel",
     "repository": "https://github.com/TroJanzHEX/Unlimited-Filter-Bot",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "success_url": "https://t.me/Nonofcomedychannel",
     "env": {
         "WEBHOOK": {
             "description": "No need to change this field!",
